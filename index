@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Zero Fin-vasion</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+
+    <main>
+        <img class="header" src="images/website header.png">
+
+        <h2> What is Project Zero Fin-vasion? </h2>
+        <p> A three-phase project that involves conducting baseline research and data gathering 
+            to monitor and assess the current state of freshwater invasive species using GRIIS, 
+            working with riverside communities and local fisherfolk through discussions, seminars, 
+            and workshops to raise awareness on IAS, and formally proposing a budget increase for 
+            organizations such as DENR and BFAR for research and development on more effective and 
+            technologically advanced solutions for this problem. </p>
+
+        <h2> Mission </h2>
+        <p> Project Zero Fin-vasion is committed to protecting freshwater ecosystems from invasive 
+            alien species (IAS) through scientific research, community engagement, and policy 
+            advocacy. By fostering awareness, equipping local stakeholders, and pushing for 
+            sustainable and technologically advanced solutions, we aim to mitigate the impact 
+            of IAS and prevent further introduction, safeguard native biodiversity, and 
+            promote responsible resource management for the benefit of the present and future of 
+            humankind and environment. </p>
+
+        <h2> Vision </h2>
+        <p> This advocacy envisions a future where freshwater ecosystems in the Philippines thrive 
+            free from the threats of invasive species, ensuring ecological balance, sustainable 
+            fisheries, and improved livelihoods for local communities. Through proactive conservation 
+            efforts, technological advancements, and collaborative action, we strive to support the 
+            global mission of SDG 14 of preserving and protecting life below water for a healthier 
+            and more sustainable planet. </p>
+
+        <section class="mainposter">
+                <img src="images/poster 1.png" alt="Poster">
+            </div>
+        </section>
+
+        <section class="wanted">
+            <h3>Posters</h3>
+            <div class="gallery">
+                <img src="images/wanted poster 1.png" alt="Wanted Poster 1">
+                <img src="images/wanted poster 2.png" alt="Wanted Poster 2">
+                <img src="images/wanted poster 3.png" alt="Wanted Poster 3">
+                <img src="images/wanted poster 4.png" alt=" Wanted Poster 4">
+            </div>
+        </section>
+
+        <section class="poster">
+            <img src="images/poster 2.png" alt="Poster 2">
+        </section>
+
+        <section class="infographics">
+            <h3>Infographics</h3>
+            <div class="gallery">
+                <img src="infographic1.jpg" alt="Infographic 1">
+                <img src="infographic2.jpg" alt="Infographic 2">
+                <img src="infographic3.jpg" alt="Infographic 3">
+            </div>
+        </section>
+    </main>
+
+ <footer>
+    <div class="footercontent">
+        <p>📞  Hotline: <strong> 0123-456-7891 </strong></p>
+        <p>📧  Email: 0finvasion@dlsu.edu.ph </p>
+        <p>📍  Address: De La Salle University </p>
+        <p>👤  Contact Persons: <strong>Karylle Bergante, Kirsten Espiritu, Zen Herrera, Miles Quijano, Joseph Villafuerte </strong> 
+        </div>
+    </footer>
+    
+
+</body>
+</html>
